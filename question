@@ -1,0 +1,7 @@
+1.echo "# Go Load Tester" > README.md 是啥意思？
+    创建了一个 README.md 文件，文件内容为 "# Go Load Tester"
+2.PS E:\Go Study\Go samples\go-load-tester> git add .
+  warning: in the working copy of 'go.mod', LF will be replaced by CRLF the next time Git touches it
+    警告：在工作副本中的 'go.mod' 文件中，LF 将在下次 Git 接触到它时被替换为 CRLF 啥意思？
+    意思是：在工作副本中的 'go.mod' 文件中，LF 换行符将在下次 Git 接触到它时被替换为 CRLF 换行符
+    
